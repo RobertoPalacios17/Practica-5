@@ -44,7 +44,7 @@ lcd.clear(); lcd.setCursor(0, 0); lcd.print("Ing.Cisneros"); lcd.setCursor(0, 1)
 Siguiente instlamos la libreria **DHT sensor library for ESPx** y la libreria **LiquidCrystal I2C**
 
 Por ultimo hacemos la conexion de los sensores **Ultrasonic Distance Sensor** y **ESP32** con el sensor **LCD 16X2 (l2C)** como se muestra en la imagen
-![]
+![](https://github.com/RobertoPalacios17/Practica-5/blob/main/SENSOR1.png)
 
 ### RESULTADOS
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
